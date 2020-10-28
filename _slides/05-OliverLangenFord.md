@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+I'd rather prefer Tron :)
 
-![constructocat](https://octodex.github.com/images/constructocat2.jpg)
+![troncat](https://octodex.github.com/images/octotron.jpg)
 {: .center}
