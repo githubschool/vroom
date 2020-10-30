@@ -27,7 +27,7 @@ Please take a moment to complete the class survey at: <>
 
 <summary>More helpful links including videos, cheat sheets, and visualization tools</summary>
 
-#### Git Resources
+#### Git Resources To Reference
 
 - [Git Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
 - [git-scm](https://git-scm.com)
